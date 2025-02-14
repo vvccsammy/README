@@ -1,6 +1,4 @@
-Sure, here is a profile README for your GitHub profile:
 
-```markdown name=README.md
 # Hi there, I'm Sammy 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vvccsammy&color=blueviolet)
@@ -46,6 +44,4 @@ I'm a passionate software developer with a love for learning new technologies an
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vvccsammy)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vvccsammy)
-```
 
-Feel free to customize this profile README with your personal details and preferences.
